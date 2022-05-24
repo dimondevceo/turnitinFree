@@ -3,7 +3,7 @@ I am an IB student and a security analyst. I hunt for bugs in big companies on H
 
 # Description
 This is a free version of Turnitin. Probably the best tool for IB students.
-Wriiten in Python.
+Written in Python.
 
 It is pretty easy to set it up:
 
